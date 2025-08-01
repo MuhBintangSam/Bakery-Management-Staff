@@ -1,0 +1,49 @@
+C:\Users\thurg\source\repos\Bakery Management staff\Bakery Management staff\bin\Debug\Bakery Management staff.exe.config
+C:\Users\thurg\source\repos\Bakery Management staff\Bakery Management staff\bin\Debug\Bakery Management staff.exe
+C:\Users\thurg\source\repos\Bakery Management staff\Bakery Management staff\bin\Debug\Bakery Management staff.pdb
+C:\Users\thurg\source\repos\Bakery Management staff\Bakery Management staff\bin\Debug\Guna.UI2.dll
+C:\Users\thurg\source\repos\Bakery Management staff\Bakery Management staff\obj\Debug\Bakery Management staff.csproj.AssemblyReference.cache
+C:\Users\thurg\source\repos\Bakery Management staff\Bakery Management staff\obj\Debug\Bakery_Management_staff.Form1.resources
+C:\Users\thurg\source\repos\Bakery Management staff\Bakery Management staff\obj\Debug\Bakery_Management_staff.Properties.Resources.resources
+C:\Users\thurg\source\repos\Bakery Management staff\Bakery Management staff\obj\Debug\Bakery Management staff.csproj.GenerateResource.cache
+C:\Users\thurg\source\repos\Bakery Management staff\Bakery Management staff\obj\Debug\Bakery Management staff.csproj.CoreCompileInputs.cache
+C:\Users\thurg\source\repos\Bakery Management staff\Bakery Management staff\obj\Debug\Bakery M.46077D84.Up2Date
+C:\Users\thurg\source\repos\Bakery Management staff\Bakery Management staff\obj\Debug\Bakery Management staff.exe
+C:\Users\thurg\source\repos\Bakery Management staff\Bakery Management staff\obj\Debug\Bakery Management staff.pdb
+C:\Users\thurg\source\repos\Bakery Management staff\Bakery Management staff\obj\Debug\Bakery_Management_staff.Form2.resources
+C:\Users\thurg\source\repos\Bakery Management staff\Bakery Management staff\obj\Debug\Bakery_Management_staff.Form3.resources
+C:\Users\thurg\source\repos\Bakery Management staff\Bakery Management staff\obj\Debug\Bakery_Management_staff.Form4.resources
+C:\Users\thurg\source\repos\Bakery Management staff\Bakery Management staff\obj\Debug\Bakery_Management_staff.Form5.resources
+C:\Users\thurg\source\repos\Bakery Management staff\Bakery Management staff\obj\Debug\Bakery_Management_staff.Form6.resources
+C:\Users\thurg\source\repos\Bakery Management staff\Bakery Management staff\obj\Debug\Bakery_Management_staff.Form7.resources
+C:\Users\thurg\source\repos\Bakery Management staff\Bakery Management staff\obj\Debug\Bakery_Management_staff.Form8.resources
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\bin\Debug\Bakery Management staff.exe.config
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\bin\Debug\Bakery Management staff.exe
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\bin\Debug\Bakery Management staff.pdb
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\bin\Debug\Google.Protobuf.pdb
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\bin\Debug\Google.Protobuf.xml
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\bin\Debug\MySql.Data.xml
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\bin\Debug\System.Buffers.xml
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\bin\Debug\System.Memory.xml
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\obj\Debug\Bakery Management staff.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\obj\Debug\Bakery_Management_staff.Form5.resources
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\obj\Debug\Bakery_Management_staff.Form6.resources
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\obj\Debug\Bakery_Management_staff.Form8.resources
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\obj\Debug\Bakery_Management_staff.Properties.Resources.resources
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\obj\Debug\Bakery Management staff.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\obj\Debug\Bakery Management staff.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\obj\Debug\Bakery M.46077D84.Up2Date
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\obj\Debug\Bakery Management staff.exe
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\obj\Debug\Bakery Management staff.pdb
+C:\Users\Asus\Documents\Bakery Management staff\Bakery Management staff\Bakery Management staff\obj\Debug\Bakery Management staff.exe.config
